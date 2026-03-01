@@ -63,7 +63,7 @@ Os prints abaixo mostram como os prompts aparecem na interface da plataforma.
 ### 📌 Exemplo 1 — Resumo de conceitos
 Prompt utilizado: Resuma em até 200 palavras os principais conceitos de inflação
 
-![Resuma em até 200 palavras os principais conceitos de inflação](exemol-1.png)
+![Resuma em até 200 palavras os principais conceitos de inflação](exemplo-1.png)
 
 ### 📌 Exemplo 2 — Comparação prática
 Prompt utilizado: Compare o impacto da inflação na vida de familias de baixa renda e de alta renda

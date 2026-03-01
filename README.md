@@ -34,14 +34,14 @@ Este repositório demonstra como utilizar o **NotebookLM** para organizar estudo
 ## 🗺️ Seção 1 — Mapa Mental
 
 📌 **Tema central:** Educação Financeira  
-![Mapa mental sobre Educação Financeira e Inflação](inflacao.png)
+![Mapa mental sobre Educação Financeira e Inflação](inflacao.jpg)
 
 ---
 
 ## 📊 Seção 2 — Infográfico
 
 📌 **Título:** Impacto real da inflação  
-![Infográfico sobre impacto da inflação](NotebookLM Mind Map.png)
+![Infográfico sobre impacto da inflação](NotebookLMMindMap.png)
 ---
 
 ## 🔄 Prompts Reutilizáveis

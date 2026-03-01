@@ -56,3 +56,22 @@ Este repositório demonstra como utilizar o **NotebookLM** para organizar estudo
 ## 📌 Conclusão
 
 Este guia mostra como estruturar um estudo ativo com IA, usando o NotebookLM para organizar fontes, gerar resumos e criar materiais de revisão.  
+
+
+## 📥 Como clonar este repositório
+
+Para ter acesso ao conteúdo deste guia no seu computador, siga os passos abaixo:
+
+1. **Instale o Git**  
+   - Baixe e instale pelo site oficial: [https://git-scm.com/downloads](https://git-scm.com/downloads).  
+   - No Windows, use o **Git Bash**; no Mac/Linux, abra o **Terminal**.
+
+2. **Abra o terminal ou prompt de comando**  
+   - Windows: "Git Bash" ou "Prompt de Comando".  
+   - Mac/Linux: aplicativo "Terminal".
+
+3. **Digite o comando para clonar o repositório**  
+
+   ```bash
+   git clone https://github.com/dnxpollo/NotebookLM.git
+

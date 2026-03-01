@@ -73,7 +73,7 @@ Prompt utilizado: Compare o impacto da inflação na vida de familias de baixa r
 ### 📌 Exemplo 3 — Falta de fonte
 Nesse prompt faço uma requisição na qual ainda não fiz a adição de fontes suficientes para que aquele prompt funcionasse.
 
-[Falta de informações para realizar o comando](exemplo-erro.png)
+![Falta de informações para realizar o comando](exemplo-erro.png)
 
 
 ## 📌 Conclusão

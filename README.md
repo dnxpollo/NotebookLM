@@ -41,7 +41,7 @@ Este repositório demonstra como utilizar o **NotebookLM** para organizar estudo
 ## 📊 Seção 2 — Infográfico
 
 📌 **Título:** Impacto real da inflação  
-![Infográfico sobre impacto da inflação]()
+![Infográfico sobre impacto da inflação](NotebookLM Mind Map.png)
 ---
 
 ## 🔄 Prompts Reutilizáveis

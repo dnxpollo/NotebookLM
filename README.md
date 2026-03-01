@@ -53,6 +53,29 @@ Este repositório demonstra como utilizar o **NotebookLM** para organizar estudo
 
 ---
 
+## 📝 Exemplos de Prompts no NotebookLM
+
+A seguir estão alguns exemplos de prompts que podem ser utilizados para explorar o tema **Inflação e Poder de Compra** dentro do NotebookLM.  
+Os prints abaixo mostram como os prompts aparecem na interface da plataforma.
+
+---
+
+### 📌 Exemplo 1 — Resumo de conceitos
+Prompt utilizado: Resuma em até 200 palavras os principais conceitos de inflação
+
+![Resuma em até 200 palavras os principais conceitos de inflação](exemol-1.png)
+
+### 📌 Exemplo 2 — Comparação prática
+Prompt utilizado: Compare o impacto da inflação na vida de familias de baixa renda e de alta renda
+
+![Compare o impacto da inflação na vida de familias de baixa renda e de alta renda](exemplo-2.png)
+
+### 📌 Exemplo 3 — Falta de fonte
+Nesse prompt faço uma requisição na qual ainda não fiz a adição de fontes suficientes para que aquele prompt funcionasse.
+
+[Falta de informações para realizar o comando](exemplo-erro.png)
+
+
 ## 📌 Conclusão
 
 Este guia mostra como estruturar um estudo ativo com IA, usando o NotebookLM para organizar fontes, gerar resumos e criar materiais de revisão.  
